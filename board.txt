@@ -1,0 +1,3 @@
+[num=1, title=처음 등록되는 글, writer=테스터, contents=처음 등록한 글 입니다., regDate=2025-11-24]
+[num=2, title=2번 글, writer=테스터, contents=2번 글 입니다., regDate=2025-11-24]
+[num=3, title=3번 글, writer=테스터, contents=3번 글 입니다., regDate=2025-11-24]
