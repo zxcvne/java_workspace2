@@ -95,7 +95,6 @@ public class ProductController {
 		}
 	}
 	
-	
 	private void add() {
 		// 등록할 product 객체를 생성
 		System.out.println("상품명>");
